@@ -123,11 +123,7 @@ Pandas · Scikit-learn · Isolation Forest · Anomaly Detection
 
 ## 🤝 Connect
 
-📧 Email: [email](mailto:maryam.shahzad.cs@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/maryam-shaz/)
-
-🐙 [GitHub](https://github.com/MaryamShazz)
+[Email](mailto:maryam.shahzad.cs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-shaz/) | [GitHub](https://github.com/MaryamShazz)
 
 ---
 
