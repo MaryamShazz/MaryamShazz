@@ -6,9 +6,9 @@
 
 ## Hi, I'm Maryam 👋
 
-I'm a Computer Science undergraduate interested in **cybersecurity, AI driven threat detection, digital forensics, and cloud security**. Lets just say anything related to Computer Science and Security.
+I'm a Computer Science undergraduate interested in *cybersecurity, AI driven threat detection, digital forensics, and cloud security*. Lets just say anything related to Computer Science and Security.
 
-I build security projects to explore detection, investigation, automation, and reproducible security research, with a particular interest in **APT detection and defensive security**. 
+I build security projects to explore detection, investigation, automation, and reproducible security research, with a particular interest in *APT detection and defensive security*. 
 
 ## 🎯 What I'm working on
 
@@ -123,7 +123,7 @@ Pandas · Scikit-learn · Isolation Forest · Anomaly Detection
 
 ## 🤝 Connect
 
-📧 Email: [your email](mailto:maryam.shahzad.cs@gmail.com)
+📧 Email: [email](mailto:maryam.shahzad.cs@gmail.com)
 
 💼 [LinkedIn](https://www.linkedin.com/in/maryam-shaz/)
 
