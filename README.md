@@ -4,19 +4,38 @@
   <img alt="Maryam Shahzad" src="https://raw.githubusercontent.com/MaryamShazz/MaryamShazz/main/dossier-dark.svg">
 </picture>
 
-## Hi, I'm Maryam 👋
+# Hi, I'm Maryam 👋
 
-I'm a Computer Science undergraduate interested in *cybersecurity, AI driven threat detection, digital forensics, and cloud security*. Lets just say anything related to Computer Science and Security.
+I am a Computer Science undergraduate focusing on cybersecurity, AI assisted threat detection, digital forensics, and security research.
 
-I build security projects to explore detection, investigation, automation, and reproducible security research, with a particular interest in *APT detection and defensive security*. 
+My current work explores *threat detection, digital evidence, provenance-based security, cloud security, and reproducible cybersecurity research*.
 
-## 🎯 What I'm working on
+### 🔬 Research Interests
 
-- 🔎 **AI driven threat detection** —> anomaly detection and security monitoring
-- 🕵️ **Digital forensics & APT investigation** —> evidence analysis, timelines, and IOC investigation
-- ☁️ **Cloud security** —> security controls, governance, and policy simulation
-- 🔬 **Reproducible security research** —> evaluation methods for provenance based APT detection
-- 🛡️ **Open-source security** —> contributing detection improvements to Wazuh
+* AI Enabled Cybersecurity & Threat Detection
+* Digital & Network Forensics
+* Digital Evidence Provenance & Integrity
+* Cybercrime Investigation
+* AI Generated Abuse & Synthetic Media Detection
+* Human Centred & Privacy Preserving Security
+* Advanced Persistent Threat (APT) Detection
+* Reproducible Security Evaluation
+
+I am particularly interested in developing cybersecurity and AI systems that can support *safer digital environments, stronger digital investigations, and evidence-based responses to emerging cybercrime*.
+
+### 🛡️ Current Focus
+
+* Security research & reproducible evaluation
+* Digital forensics and APT investigation
+* AI-assisted network anomaly detection
+* Cloud security and governance
+* Digital evidence and provenance
+* Open-source security engineering
+
+### 🎓 Long-Term Research Direction
+
+I aim to explore the intersection of *AI, cybersecurity, digital forensics, and technology facilitated cybercrime*, with a long term interest in developing practical security and investigative solutions for vulnerable communities.
+
 
 ## 🔬 Research
 
@@ -59,6 +78,21 @@ A network intrusion detection project using Isolation Forest to identify anomalo
 
 [View Repository](https://github.com/MaryamShazz/AI-Network-Anomaly-Detector)
 
+### 🕵️ Digital Forensics & APT Incident Investigation Lab
+
+A simulated APT investigation combining Autopsy, Volatility 3, Windows event logs, IOC analysis, evidence correlation, and MITRE ATT&CK mapping.
+
+**Focus:** Digital Forensics · Incident Response · APT Investigation
+
+[View Repository](https://github.com/MaryamShazz/Digital-Forensics-and-APT-Incident-Investigation-Lab)
+
+### 📡 APT Network Traffic Investigation & Detection Lab
+
+A network focused investigation environment for examining suspicious traffic and APT related activity through network analysis and detection tooling.
+
+**Focus:** Network Forensics · Wireshark · Zeek · Suricata
+
+[View Repository](https://github.com/MaryamShazz/APT-Network-Traffic-Investigation-and-Detection-Lab)
 
 ### ☁️ Huawei Cloud Security Hardening Defense Lab
 
@@ -69,22 +103,8 @@ A practical cloud security lab covering IAM, VPC, security groups, firewall cont
 [View Repository](https://github.com/MaryamShazz/Huawei-Cloud-Security-Hardening-Defense-Lab)
 
 
-### 🕵️ Digital Forensics & APT Incident Investigation Lab
-
-A simulated APT investigation combining Autopsy, Volatility 3, Windows event logs, IOC analysis, evidence correlation, and MITRE ATT&CK mapping.
-
-**Focus:** Digital Forensics · Incident Response · APT Investigation
-
-[View Repository](https://github.com/MaryamShazz/Digital-Forensics-and-APT-Incident-Investigation-Lab)
 
 
-### 📡 APT Network Traffic Investigation & Detection Lab
-
-A network focused investigation environment for examining suspicious traffic and APT related activity through network analysis and detection tooling.
-
-**Focus:** Network Forensics · Wireshark · Zeek · Suricata
-
-[View Repository](https://github.com/MaryamShazz/APT-Network-Traffic-Investigation-and-Detection-Lab)
 
 ## 🌱 Open Source
 
