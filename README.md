@@ -112,7 +112,9 @@ A practical cloud security lab covering IAM, VPC, security groups, firewall cont
 
 Contributed an upstream detection rule for repeated local PAM authentication failures, addressing repeated authentication attempts where a source IP may not be available.
 
-**Pull Request:** [Wazuh PR #38270](https://github.com/wazuh/wazuh/pull/38270)
+**Pull Request:** [Wazuh PR #38270](https://github.com/wazuh/wazuh/pull/38270)   Closed for more implementation.
+
+**Documentation:** [Wazuh PAM Frequency Fix](https://github.com/MaryamShazz/wazuh-pam-frequency-fix)
 
 ## 🛠️ Technical Areas
 
