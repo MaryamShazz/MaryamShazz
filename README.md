@@ -145,7 +145,7 @@ Pandas · Scikit-learn · Isolation Forest · Anomaly Detection
 
 ## 🤝 Connect
 
-[Email](mailto:maryam.shahzad.cs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-shaz/) | [GitHub](https://github.com/MaryamShazz)
+[Email](mailto:maryam.shahzad.cs@gmail.com) | [LinkedIn](https://www.linkedin.com/in/maryam-shaz/) | [GitHub](https://github.com/MaryamShazz) |  [ORCID](https://orcid.org/0009-0007-8738-3938) 
 
 ---
 
